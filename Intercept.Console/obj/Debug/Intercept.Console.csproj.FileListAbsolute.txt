@@ -1,0 +1,9 @@
+F:\MyProject\InterceptSolution\Intercept.Console\bin\Debug\Intercept.Console.exe.config
+F:\MyProject\InterceptSolution\Intercept.Console\bin\Debug\Intercept.Console.exe
+F:\MyProject\InterceptSolution\Intercept.Console\bin\Debug\Intercept.Console.pdb
+F:\MyProject\InterceptSolution\Intercept.Console\obj\Debug\Intercept.Console.exe
+F:\MyProject\InterceptSolution\Intercept.Console\obj\Debug\Intercept.Console.pdb
+F:\MyProject\InterceptSolution\Intercept.Console\obj\Debug\Intercept.Console.csprojResolveAssemblyReference.cache
+F:\MyProject\InterceptSolution\Intercept.Console\bin\Debug\Intercept.Core.dll
+F:\MyProject\InterceptSolution\Intercept.Console\bin\Debug\Intercept.Core.pdb
+F:\MyProject\InterceptSolution\Intercept.Console\bin\Debug\Newtonsoft.Json.dll

@@ -1,0 +1,5 @@
+F:\MyProject\ProxySolution\Proxy.Core\bin\Debug\Proxy.Core.dll
+F:\MyProject\ProxySolution\Proxy.Core\bin\Debug\Proxy.Core.pdb
+F:\MyProject\ProxySolution\Proxy.Core\obj\Debug\Proxy.Core.csprojResolveAssemblyReference.cache
+F:\MyProject\ProxySolution\Proxy.Core\obj\Debug\Proxy.Core.dll
+F:\MyProject\ProxySolution\Proxy.Core\obj\Debug\Proxy.Core.pdb
